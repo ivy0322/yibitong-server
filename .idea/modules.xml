@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yibitong-common-utils/yibitong-common-utils.iml" filepath="$PROJECT_DIR$/yibitong-common-utils/yibitong-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-core-eureka/yibitong-core-eureka.iml" filepath="$PROJECT_DIR$/yibitong-core-eureka/yibitong-core-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-finance-server/yibitong-finance-server.iml" filepath="$PROJECT_DIR$/yibitong-finance-server/yibitong-finance-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-information-server/yibitong-information-server.iml" filepath="$PROJECT_DIR$/yibitong-information-server/yibitong-information-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-server.iml" filepath="$PROJECT_DIR$/yibitong-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-transaction-server/yibitong-transaction-server.iml" filepath="$PROJECT_DIR$/yibitong-transaction-server/yibitong-transaction-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibitong-user-server/yibitong-user-server.iml" filepath="$PROJECT_DIR$/yibitong-user-server/yibitong-user-server.iml" />
+    </modules>
+  </component>
+</project>

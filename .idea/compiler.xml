@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yibitong-common-utils" />
+        <module name="yibitong-core-eureka" />
+        <module name="yibitong-finance-server" />
+        <module name="yibitong-information-server" />
+        <module name="yibitong-transaction-server" />
+        <module name="yibitong-user-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yibitong-common-utils" target="1.8" />
+      <module name="yibitong-core-eureka" target="1.8" />
+      <module name="yibitong-finance-server" target="1.8" />
+      <module name="yibitong-information-server" target="1.8" />
+      <module name="yibitong-server" target="1.8" />
+      <module name="yibitong-transaction-server" target="1.8" />
+      <module name="yibitong-user-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

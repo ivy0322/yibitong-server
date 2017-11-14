@@ -1,0 +1,23 @@
+server:
+  port: 1888
+
+security:
+  basic:
+    enabled: true
+  user:
+    name: admin
+    password: admin
+
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:1888/eureka/
+
+logging:
+  path: logs/yibitong-core-eureka
+  config: classpath:logback.xml

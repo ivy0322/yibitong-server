@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>yibitong</groupId>
+    <artifactId>yibitong</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>yibitong-core-eureka</module>
+        <module>yibitong-user-server</module>
+        <module>yibitong-information-server</module>
+        <module>yibitong-finance-server</module>
+        <module>yibitong-transaction-server</module>
+        <module>yibitong-common-utils</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <java.version>1.8</java.version>
+
+        <core-common-utils.version>1.0-SNAPSHOT</core-common-utils.version>
+        <core-sms-server.version>1.0-SNAPSHOT</core-sms-server.version>
+        <core-discovery-eureka.version>1.0-SNAPSHOT</core-discovery-eureka.version>
+
+        <finances-entity.version>1.0-SNAPSHOT</finances-entity.version>
+        <finances-system-server.version>1.0-SNAPSHOT</finances-system-server.version>
+        <finances-account-server.version>1.0-SNAPSHOT</finances-account-server.version>
+        <finances-tender-server.version>1.0-SNAPSHOT</finances-tender-server.version>
+        <finances-archives-server.version>1.0-SNAPSHOT</finances-archives-server.version>
+        <finances-api.version>1.0-SNAPSHOT</finances-api.version>
+        <finances-admin.version>1.0-SNAPSHOT</finances-admin.version>
+
+        <spring-boot.version>1.5.8.RELEASE</spring-boot.version>
+        <spring-cloud.version>Dalston.SR4</spring-cloud.version>
+        <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
+        <alidayu-sms.version>1.0</alidayu-sms.version>
+        <okhttp.version>2.5.0</okhttp.version>
+        <slf4j-api.version>1.7.25</slf4j-api.version>
+        <fastjson.version>1.2.30</fastjson.version>
+        <commons-lang.version>2.6</commons-lang.version>
+        <commons-lang3.version>3.5</commons-lang3.version>
+        <mybatisplus-spring-boot-starter.version>1.0.4</mybatisplus-spring-boot-starter.version>
+        <mybatis-spring-boot-starter.version>1.2.0</mybatis-spring-boot-starter.version>
+        <mybatisplus.version>2.1.0</mybatisplus.version>
+        <lombok.version>[1.0.0,9.99.99]</lombok.version>
+        <alibaba-druid.version>1.1.2</alibaba-druid.version>
+        <springfox.version>2.7.0</springfox.version>
+        <httpcore.version>4.4.6</httpcore.version>
+        <commons-httpclient.version>3.1</commons-httpclient.version>
+        <swagger-bootstrap-ui.version>1.5</swagger-bootstrap-ui.version>
+        <aliyun-sdk-oss.version>2.5.0</aliyun-sdk-oss.version>
+        <quartz.version>1.8.6</quartz.version>
+        <jpush.version>3.2.16</jpush.version>
+    </properties>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
+        </dependency>
+    </dependencies>
+
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <repositories>
+        <repository>
+            <id>nexus</id>
+            <name>nexus Repository</name>
+            <url>http://218.70.11.118:8081/repository/maven-releases/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>nexus</id>
+            <name>nexus PluginRepository</name>
+            <url>http://218.70.11.118:8081/repository/maven-releases/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>${spring-boot.version}</version>
+            </plugin>
+        </plugins>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.sonarsource.scanner.maven</groupId>
+                    <artifactId>sonar-maven-plugin</artifactId>
+                    <version>3.3.0.603</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>
