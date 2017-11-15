@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/yzj?characterEncoding=utf8&useSSL=false
+    url: jdbc:mysql://39.108.105.15:3306/coin_customer?characterEncoding=utf8&useSSL=false
     username: root
-    password: root
+    password: Ybt888@999
