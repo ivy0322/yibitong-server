@@ -24,6 +24,6 @@ public class UserEntity extends Model<UserEntity>{
 
     @Override
     protected Serializable pkVal() {
-        return null;
+        return this.user_id;
     }
 }

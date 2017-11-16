@@ -1,341 +1,372 @@
-2017-11-15 00:00:17.797 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:01:17.797 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:02:17.798 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:03:15.835 [http-nio-1888-exec-9] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.106:8799 with status UP (replication=false)
-2017-11-15 00:03:16.343 [http-nio-1888-exec-10] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.106:8799 with status UP (replication=true)
-2017-11-15 00:03:17.799 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
-2017-11-15 00:04:17.799 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:05:17.192 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 3
-2017-11-15 00:05:17.799 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:06:17.799 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:07:17.800 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:08:17.800 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:09:17.801 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:10:17.801 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:11:17.801 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:12:17.801 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:13:17.801 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:14:17.802 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:15:17.814 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 12ms
-2017-11-15 00:16:17.822 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 8ms
-2017-11-15 00:17:17.837 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 13ms
-2017-11-15 00:18:17.838 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
-2017-11-15 00:19:17.848 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 9ms
-2017-11-15 00:20:17.192 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 3
-2017-11-15 00:20:17.849 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:21:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:22:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:23:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:24:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:25:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:26:17.850 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:46:37.480 [main] INFO  yibitong.EurekaApplication -Starting EurekaApplication on Lenovo-PC with PID 43232 (D:\yibitong\yibitong-server\yibitong-core-eureka\target\classes started by yy in D:\yibitong\yibitong-server)
-2017-11-15 00:46:37.480 [main] INFO  yibitong.EurekaApplication -No active profile set, falling back to default profiles: default
-2017-11-15 00:46:37.543 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 00:46:37 CST 2017]; root of context hierarchy
-2017-11-15 00:46:39.132 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
-2017-11-15 00:46:39.194 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration' of type [org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration$$EnhancerBySpringCGLIB$$68d9939b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2017-11-15 00:46:39.514 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 1888 (http)
-2017-11-15 00:46:39.529 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
-2017-11-15 00:46:39.529 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.23
-2017-11-15 00:46:39.714 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
-2017-11-15 00:46:39.714 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 2171 ms
-2017-11-15 00:46:40.221 [localhost-startStop-1] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
-2017-11-15 00:46:40.487 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Initializing Eureka in region us-east-1
-2017-11-15 00:46:40.487 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Client configured to neither register nor query for data.
-2017-11-15 00:46:40.487 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1510678000487 with initial instances count: 0
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestTraceFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'servletContainer' to urls: [/eureka/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
-2017-11-15 00:46:40.930 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
-2017-11-15 00:46:41.023 [localhost-startStop-1] INFO  c.s.j.s.i.a.WebApplicationImpl -Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
-2017-11-15 00:46:41.086 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 00:46:41.086 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 00:46:41.242 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 00:46:41.242 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 00:46:41.715 [main] WARN  o.s.c.n.a.ArchaiusAutoConfiguration -No spring.application.name found, defaulting to 'application'
-2017-11-15 00:46:41.715 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 00:46:41.715 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 00:46:41.715 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 00:46:41.715 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 00:46:42.113 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 00:46:37 CST 2017]; root of context hierarchy
-2017-11-15 00:46:42.207 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
-2017-11-15 00:46:42.207 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
-2017-11-15 00:46:42.207 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 00:46:42.207 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 00:46:42.238 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 00:46:42.238 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 00:46:42.270 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.setStatus(java.lang.String)
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[GET]}" onto public org.springframework.http.ResponseEntity org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.getStatus()
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
-2017-11-15 00:46:42.636 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.652 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 00:46:42.744 [main] INFO  o.s.u.f.SpringTemplateLoader -SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 00:46:37 CST 2017]; root of context hierarchy] and template loader path [classpath:/templates/]
-2017-11-15 00:46:42.744 [main] INFO  o.s.w.s.v.f.FreeMarkerConfigurer -ClassTemplateLoader for Spring macros added to FreeMarker configuration
-2017-11-15 00:46:42.822 [main] INFO  c.n.e.DefaultEurekaServerContext -Initializing ...
-2017-11-15 00:46:42.822 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Adding new peer nodes [http://127.0.0.1:1888/eureka/]
-2017-11-15 00:46:42.978 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 00:46:42.978 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 00:46:42.978 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 00:46:42.978 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 00:46:43.076 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Replica node URL:  http://127.0.0.1:1888/eureka/
-2017-11-15 00:46:43.092 [main] INFO  c.n.e.r.AbstractInstanceRegistry -Finished initializing remote region registries. All known remote regions: []
-2017-11-15 00:46:43.092 [main] INFO  c.n.e.DefaultEurekaServerContext -Initialized
-2017-11-15 00:46:43.155 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
-2017-11-15 00:46:43.170 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'serviceRegistryEndpoint' has been autodetected for JMX exposure
-2017-11-15 00:46:43.170 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'serviceRegistryEndpoint': registering with JMX server as MBean [org.springframework.cloud.client.serviceregistry.endpoint:name=serviceRegistryEndpoint,type=ServiceRegistryEndpoint]
-2017-11-15 00:46:43.186 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
-2017-11-15 00:46:43.186 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry -Registering application unknown with eureka with status UP
-2017-11-15 00:46:43.264 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Setting the eureka configuration..
-2017-11-15 00:46:43.264 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka data center value eureka.datacenter is not set, defaulting to default
-2017-11-15 00:46:43.264 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka environment value eureka.environment is not set, defaulting to test
-2017-11-15 00:46:43.279 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerBootstrap -isAws returned false
-2017-11-15 00:46:43.279 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Initialized server context
-2017-11-15 00:46:43.279 [Thread-24] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Got 1 instances from neighboring DS node
-2017-11-15 00:46:43.279 [Thread-24] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Renew threshold is: 1
-2017-11-15 00:46:43.279 [Thread-24] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Changing status to UP
-2017-11-15 00:46:43.295 [Thread-24] INFO  o.s.c.n.e.s.EurekaServerInitializerConfiguration -Started Eureka Server
-2017-11-15 00:46:43.326 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 1888 (http)
-2017-11-15 00:46:43.326 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration -Updating port to 1888
-2017-11-15 00:46:43.342 [main] INFO  yibitong.EurekaApplication -Started EurekaApplication in 7.245 seconds (JVM running for 9.486)
-2017-11-15 00:47:28.360 [http-nio-1888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring FrameworkServlet 'dispatcherServlet'
-2017-11-15 00:47:28.360 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization started
-2017-11-15 00:47:28.391 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization completed in 31 ms
-2017-11-15 00:47:28.632 [http-nio-1888-exec-2] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.106:8799 with status UP (replication=false)
-2017-11-15 00:47:29.499 [http-nio-1888-exec-3] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.106:8799 with status UP (replication=true)
-2017-11-15 00:47:43.280 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 00:48:43.281 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:01:14.099 [main] INFO  yibitong.EurekaApplication -Starting EurekaApplication on Lenovo-PC with PID 36360 (D:\yibitong\yibitong-server\yibitong-core-eureka\target\classes started by yy in D:\yibitong\yibitong-server)
-2017-11-15 01:01:14.099 [main] INFO  yibitong.EurekaApplication -No active profile set, falling back to default profiles: default
-2017-11-15 01:01:14.177 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 01:01:14 CST 2017]; root of context hierarchy
-2017-11-15 01:01:15.555 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
-2017-11-15 01:01:15.633 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration' of type [org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration$$EnhancerBySpringCGLIB$$66a166af] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2017-11-15 01:01:16.024 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 1888 (http)
-2017-11-15 01:01:16.024 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
-2017-11-15 01:01:16.024 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.23
-2017-11-15 01:01:16.149 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
-2017-11-15 01:01:16.149 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1972 ms
-2017-11-15 01:01:16.704 [localhost-startStop-1] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
-2017-11-15 01:01:16.860 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Initializing Eureka in region us-east-1
-2017-11-15 01:01:16.860 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Client configured to neither register nor query for data.
-2017-11-15 01:01:16.860 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1510678876860 with initial instances count: 0
-2017-11-15 01:01:17.282 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestTraceFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'servletContainer' to urls: [/eureka/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
-2017-11-15 01:01:17.297 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
-2017-11-15 01:01:17.360 [localhost-startStop-1] INFO  c.s.j.s.i.a.WebApplicationImpl -Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
-2017-11-15 01:01:17.422 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 01:01:17.422 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 01:01:17.509 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 01:01:17.509 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 01:01:18.071 [main] WARN  o.s.c.n.a.ArchaiusAutoConfiguration -No spring.application.name found, defaulting to 'application'
-2017-11-15 01:01:18.071 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 01:01:18.071 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 01:01:18.087 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 01:01:18.087 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 01:01:18.665 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 01:01:14 CST 2017]; root of context hierarchy
-2017-11-15 01:01:18.790 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
-2017-11-15 01:01:18.790 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
-2017-11-15 01:01:18.806 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 01:01:18.806 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 01:01:18.868 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 01:01:18.868 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 01:01:18.978 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[GET]}" onto public org.springframework.http.ResponseEntity org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.getStatus()
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.setStatus(java.lang.String)
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
-2017-11-15 01:01:19.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
-2017-11-15 01:01:19.604 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.604 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 01:01:19.696 [main] INFO  o.s.u.f.SpringTemplateLoader -SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 01:01:14 CST 2017]; root of context hierarchy] and template loader path [classpath:/templates/]
-2017-11-15 01:01:19.696 [main] INFO  o.s.w.s.v.f.FreeMarkerConfigurer -ClassTemplateLoader for Spring macros added to FreeMarker configuration
-2017-11-15 01:01:19.786 [main] INFO  c.n.e.DefaultEurekaServerContext -Initializing ...
-2017-11-15 01:01:19.786 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Adding new peer nodes [http://127.0.0.1:1888/eureka/]
-2017-11-15 01:01:19.958 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 01:01:19.958 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 01:01:19.958 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 01:01:19.958 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 01:01:20.098 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Replica node URL:  http://127.0.0.1:1888/eureka/
-2017-11-15 01:01:20.114 [main] INFO  c.n.e.r.AbstractInstanceRegistry -Finished initializing remote region registries. All known remote regions: []
-2017-11-15 01:01:20.114 [main] INFO  c.n.e.DefaultEurekaServerContext -Initialized
-2017-11-15 01:01:20.177 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
-2017-11-15 01:01:20.192 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'serviceRegistryEndpoint' has been autodetected for JMX exposure
-2017-11-15 01:01:20.192 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'serviceRegistryEndpoint': registering with JMX server as MBean [org.springframework.cloud.client.serviceregistry.endpoint:name=serviceRegistryEndpoint,type=ServiceRegistryEndpoint]
-2017-11-15 01:01:20.208 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
-2017-11-15 01:01:20.208 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry -Registering application unknown with eureka with status UP
-2017-11-15 01:01:20.255 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Setting the eureka configuration..
-2017-11-15 01:01:20.255 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka data center value eureka.datacenter is not set, defaulting to default
-2017-11-15 01:01:20.255 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka environment value eureka.environment is not set, defaulting to test
-2017-11-15 01:01:20.270 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -isAws returned false
-2017-11-15 01:01:20.270 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Initialized server context
-2017-11-15 01:01:20.270 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Got 1 instances from neighboring DS node
-2017-11-15 01:01:20.270 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Renew threshold is: 1
-2017-11-15 01:01:20.270 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Changing status to UP
-2017-11-15 01:01:20.270 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerInitializerConfiguration -Started Eureka Server
-2017-11-15 01:01:20.333 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 1888 (http)
-2017-11-15 01:01:20.333 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration -Updating port to 1888
-2017-11-15 01:01:20.348 [main] INFO  yibitong.EurekaApplication -Started EurekaApplication in 8.383 seconds (JVM running for 10.456)
-2017-11-15 01:02:20.277 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:03:20.278 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:04:20.290 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 12ms
-2017-11-15 01:05:20.297 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 7ms
-2017-11-15 01:06:20.307 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 9ms
-2017-11-15 01:07:20.320 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 12ms
-2017-11-15 01:08:20.320 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:09:20.335 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 15ms
-2017-11-15 01:10:20.346 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 12ms
-2017-11-15 01:11:20.349 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:12:20.352 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 4ms
-2017-11-15 01:13:20.352 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:14:20.353 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:15:20.353 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:16:20.114 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 1
-2017-11-15 01:16:20.353 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:17:20.353 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:18:20.354 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:19:20.354 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 01:20:20.354 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 15:16:54.686 [main] INFO  yibitong.EurekaApplication -Starting EurekaApplication on Lenovo-PC with PID 47572 (D:\yibitong\yibitong-server\yibitong-core-eureka\target\classes started by yy in D:\yibitong\yibitong-server)
-2017-11-15 15:16:54.691 [main] INFO  yibitong.EurekaApplication -No active profile set, falling back to default profiles: default
-2017-11-15 15:16:55.016 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 15:16:55 CST 2017]; root of context hierarchy
-2017-11-15 15:16:57.361 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
-2017-11-15 15:16:57.505 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration' of type [org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration$$EnhancerBySpringCGLIB$$b5d1a514] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2017-11-15 15:16:58.044 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 1888 (http)
-2017-11-15 15:16:58.057 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
-2017-11-15 15:16:58.058 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.23
-2017-11-15 15:16:58.230 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
-2017-11-15 15:16:58.231 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 3215 ms
-2017-11-15 15:16:58.890 [localhost-startStop-1] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
-2017-11-15 15:16:59.191 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Initializing Eureka in region us-east-1
-2017-11-15 15:16:59.192 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Client configured to neither register nor query for data.
-2017-11-15 15:16:59.200 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1510730219200 with initial instances count: 0
-2017-11-15 15:16:59.615 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
-2017-11-15 15:16:59.616 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
-2017-11-15 15:16:59.618 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
-2017-11-15 15:16:59.619 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
-2017-11-15 15:16:59.619 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
-2017-11-15 15:16:59.619 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestTraceFilter' to: [/*]
-2017-11-15 15:16:59.619 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'servletContainer' to urls: [/eureka/*]
-2017-11-15 15:16:59.620 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
-2017-11-15 15:16:59.620 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
-2017-11-15 15:16:59.768 [localhost-startStop-1] INFO  c.s.j.s.i.a.WebApplicationImpl -Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
-2017-11-15 15:17:00.002 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 15:17:00.003 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 15:17:00.241 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 15:17:00.242 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 15:17:00.926 [main] WARN  o.s.c.n.a.ArchaiusAutoConfiguration -No spring.application.name found, defaulting to 'application'
-2017-11-15 15:17:00.931 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 15:17:00.932 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 15:17:00.940 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
-2017-11-15 15:17:00.941 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2017-11-15 15:17:01.517 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 15:16:55 CST 2017]; root of context hierarchy
-2017-11-15 15:17:01.627 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
-2017-11-15 15:17:01.628 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
-2017-11-15 15:17:01.634 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 15:17:01.635 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
-2017-11-15 15:17:01.672 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 15:17:01.673 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 15:17:01.722 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
-2017-11-15 15:17:02.563 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
-2017-11-15 15:17:02.564 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.566 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.567 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
-2017-11-15 15:17:02.570 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.571 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.577 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.579 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.580 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
-2017-11-15 15:17:02.583 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
-2017-11-15 15:17:02.584 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
-2017-11-15 15:17:02.585 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.586 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.587 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
-2017-11-15 15:17:02.588 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
-2017-11-15 15:17:02.590 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.591 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.592 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
-2017-11-15 15:17:02.593 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.593 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
-2017-11-15 15:17:02.595 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.setStatus(java.lang.String)
-2017-11-15 15:17:02.595 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[GET]}" onto public org.springframework.http.ResponseEntity org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.getStatus()
-2017-11-15 15:17:02.955 [main] INFO  o.s.u.f.SpringTemplateLoader -SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Wed Nov 15 15:16:55 CST 2017]; root of context hierarchy] and template loader path [classpath:/templates/]
-2017-11-15 15:17:02.957 [main] INFO  o.s.w.s.v.f.FreeMarkerConfigurer -ClassTemplateLoader for Spring macros added to FreeMarker configuration
-2017-11-15 15:17:03.310 [main] INFO  c.n.e.DefaultEurekaServerContext -Initializing ...
-2017-11-15 15:17:03.316 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Adding new peer nodes [http://127.0.0.1:1888/eureka/]
-2017-11-15 15:17:03.652 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
-2017-11-15 15:17:03.652 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
-2017-11-15 15:17:03.652 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
-2017-11-15 15:17:03.652 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
-2017-11-15 15:17:03.840 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Replica node URL:  http://127.0.0.1:1888/eureka/
-2017-11-15 15:17:03.850 [main] INFO  c.n.e.r.AbstractInstanceRegistry -Finished initializing remote region registries. All known remote regions: []
-2017-11-15 15:17:03.851 [main] INFO  c.n.e.DefaultEurekaServerContext -Initialized
-2017-11-15 15:17:04.004 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
-2017-11-15 15:17:04.021 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'serviceRegistryEndpoint' has been autodetected for JMX exposure
-2017-11-15 15:17:04.023 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'serviceRegistryEndpoint': registering with JMX server as MBean [org.springframework.cloud.client.serviceregistry.endpoint:name=serviceRegistryEndpoint,type=ServiceRegistryEndpoint]
-2017-11-15 15:17:04.049 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
-2017-11-15 15:17:04.049 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry -Registering application unknown with eureka with status UP
-2017-11-15 15:17:04.133 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Setting the eureka configuration..
-2017-11-15 15:17:04.134 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka data center value eureka.datacenter is not set, defaulting to default
-2017-11-15 15:17:04.134 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka environment value eureka.environment is not set, defaulting to test
-2017-11-15 15:17:04.148 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerBootstrap -isAws returned false
-2017-11-15 15:17:04.148 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Initialized server context
-2017-11-15 15:17:04.149 [Thread-33] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Got 1 instances from neighboring DS node
-2017-11-15 15:17:04.149 [Thread-33] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Renew threshold is: 1
-2017-11-15 15:17:04.149 [Thread-33] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Changing status to UP
-2017-11-15 15:17:04.158 [Thread-33] INFO  o.s.c.n.e.s.EurekaServerInitializerConfiguration -Started Eureka Server
-2017-11-15 15:17:04.233 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 1888 (http)
-2017-11-15 15:17:04.238 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration -Updating port to 1888
-2017-11-15 15:17:04.284 [main] INFO  yibitong.EurekaApplication -Started EurekaApplication in 11.022 seconds (JVM running for 15.403)
-2017-11-15 15:18:04.151 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 15:19:04.151 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 15:20:04.154 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 3ms
-2017-11-15 15:20:08.192 [http-nio-1888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring FrameworkServlet 'dispatcherServlet'
-2017-11-15 15:20:08.193 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization started
-2017-11-15 15:20:08.262 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization completed in 69 ms
-2017-11-15 15:20:08.837 [http-nio-1888-exec-2] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8799 with status UP (replication=false)
-2017-11-15 15:20:09.679 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8799 with status UP (replication=true)
-2017-11-15 15:21:04.154 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
-2017-11-15 15:22:04.155 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 09:09:01.410 [main] INFO  yibitong.EurekaApplication -Starting EurekaApplication on Lenovo-PC with PID 42716 (D:\yibitong\yibitong-server\yibitong-core-eureka\target\classes started by yy in D:\yibitong\yibitong-server)
+2017-11-16 09:09:01.426 [main] INFO  yibitong.EurekaApplication -No active profile set, falling back to default profiles: default
+2017-11-16 09:09:01.582 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 09:09:01 CST 2017]; root of context hierarchy
+2017-11-16 09:09:03.149 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-16 09:09:03.258 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration' of type [org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration$$EnhancerBySpringCGLIB$$9df1846f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2017-11-16 09:09:03.805 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 1888 (http)
+2017-11-16 09:09:03.821 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
+2017-11-16 09:09:03.821 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.23
+2017-11-16 09:09:04.055 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2017-11-16 09:09:04.055 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 2473 ms
+2017-11-16 09:09:04.587 [localhost-startStop-1] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
+2017-11-16 09:09:04.774 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Initializing Eureka in region us-east-1
+2017-11-16 09:09:04.789 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Client configured to neither register nor query for data.
+2017-11-16 09:09:04.789 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1510794544789 with initial instances count: 0
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestTraceFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'servletContainer' to urls: [/eureka/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
+2017-11-16 09:09:05.164 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
+2017-11-16 09:09:05.336 [localhost-startStop-1] INFO  c.s.j.s.i.a.WebApplicationImpl -Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2017-11-16 09:09:05.508 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2017-11-16 09:09:05.508 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2017-11-16 09:09:05.727 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2017-11-16 09:09:05.727 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2017-11-16 09:09:06.336 [main] WARN  o.s.c.n.a.ArchaiusAutoConfiguration -No spring.application.name found, defaulting to 'application'
+2017-11-16 09:09:06.336 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2017-11-16 09:09:06.336 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2017-11-16 09:09:06.352 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2017-11-16 09:09:06.352 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2017-11-16 09:09:06.836 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 09:09:01 CST 2017]; root of context hierarchy
+2017-11-16 09:09:06.946 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-11-16 09:09:06.961 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-11-16 09:09:06.961 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2017-11-16 09:09:06.961 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2017-11-16 09:09:06.992 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 09:09:06.992 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 09:09:07.039 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.543 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.setStatus(java.lang.String)
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[GET]}" onto public org.springframework.http.ResponseEntity org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.getStatus()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.559 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.574 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.574 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2017-11-16 09:09:07.574 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 09:09:07.793 [main] INFO  o.s.u.f.SpringTemplateLoader -SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 09:09:01 CST 2017]; root of context hierarchy] and template loader path [classpath:/templates/]
+2017-11-16 09:09:07.793 [main] INFO  o.s.w.s.v.f.FreeMarkerConfigurer -ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-11-16 09:09:07.965 [main] INFO  c.n.e.DefaultEurekaServerContext -Initializing ...
+2017-11-16 09:09:07.965 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Adding new peer nodes [http://127.0.0.1:1888/eureka/]
+2017-11-16 09:09:08.215 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2017-11-16 09:09:08.215 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2017-11-16 09:09:08.215 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2017-11-16 09:09:08.215 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2017-11-16 09:09:08.371 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Replica node URL:  http://127.0.0.1:1888/eureka/
+2017-11-16 09:09:08.371 [main] INFO  c.n.e.r.AbstractInstanceRegistry -Finished initializing remote region registries. All known remote regions: []
+2017-11-16 09:09:08.371 [main] INFO  c.n.e.DefaultEurekaServerContext -Initialized
+2017-11-16 09:09:08.481 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-11-16 09:09:08.496 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'serviceRegistryEndpoint' has been autodetected for JMX exposure
+2017-11-16 09:09:08.496 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'serviceRegistryEndpoint': registering with JMX server as MBean [org.springframework.cloud.client.serviceregistry.endpoint:name=serviceRegistryEndpoint,type=ServiceRegistryEndpoint]
+2017-11-16 09:09:08.559 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
+2017-11-16 09:09:08.559 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry -Registering application unknown with eureka with status UP
+2017-11-16 09:09:08.637 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Setting the eureka configuration..
+2017-11-16 09:09:08.637 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka data center value eureka.datacenter is not set, defaulting to default
+2017-11-16 09:09:08.637 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka environment value eureka.environment is not set, defaulting to test
+2017-11-16 09:09:08.652 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerBootstrap -isAws returned false
+2017-11-16 09:09:08.652 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Initialized server context
+2017-11-16 09:09:08.652 [Thread-27] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Got 1 instances from neighboring DS node
+2017-11-16 09:09:08.652 [Thread-27] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Renew threshold is: 1
+2017-11-16 09:09:08.652 [Thread-27] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Changing status to UP
+2017-11-16 09:09:08.652 [Thread-27] INFO  o.s.c.n.e.s.EurekaServerInitializerConfiguration -Started Eureka Server
+2017-11-16 09:09:08.730 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 1888 (http)
+2017-11-16 09:09:08.730 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration -Updating port to 1888
+2017-11-16 09:09:08.746 [main] INFO  yibitong.EurekaApplication -Started EurekaApplication in 8.336 seconds (JVM running for 11.494)
+2017-11-16 09:10:08.665 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 09:11:08.668 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 3ms
+2017-11-16 09:12:08.679 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 11ms
+2017-11-16 09:13:08.695 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 15ms
+2017-11-16 09:14:08.706 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 10ms
+2017-11-16 09:15:08.720 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 14ms
+2017-11-16 09:16:08.728 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 7ms
+2017-11-16 09:17:08.769 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 54ms
+2017-11-16 11:20:36.337 [main] INFO  yibitong.EurekaApplication -Starting EurekaApplication on Lenovo-PC with PID 47476 (D:\yibitong\yibitong-server\yibitong-core-eureka\target\classes started by yy in D:\yibitong\yibitong-server)
+2017-11-16 11:20:36.340 [main] INFO  yibitong.EurekaApplication -No active profile set, falling back to default profiles: default
+2017-11-16 11:20:36.388 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 11:20:36 CST 2017]; root of context hierarchy
+2017-11-16 11:20:37.674 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-16 11:20:37.776 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration' of type [org.springframework.cloud.netflix.metrics.MetricsInterceptorConfiguration$MetricsRestTemplateConfiguration$$EnhancerBySpringCGLIB$$68d9939b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2017-11-16 11:20:38.126 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 1888 (http)
+2017-11-16 11:20:38.135 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
+2017-11-16 11:20:38.136 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.23
+2017-11-16 11:20:38.270 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2017-11-16 11:20:38.270 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1882 ms
+2017-11-16 11:20:38.766 [localhost-startStop-1] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
+2017-11-16 11:20:38.931 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Initializing Eureka in region us-east-1
+2017-11-16 11:20:38.932 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Client configured to neither register nor query for data.
+2017-11-16 11:20:38.937 [localhost-startStop-1] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1510802438937 with initial instances count: 0
+2017-11-16 11:20:39.264 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
+2017-11-16 11:20:39.264 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestTraceFilter' to: [/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'servletContainer' to urls: [/eureka/*]
+2017-11-16 11:20:39.265 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
+2017-11-16 11:20:39.266 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
+2017-11-16 11:20:39.351 [localhost-startStop-1] INFO  c.s.j.s.i.a.WebApplicationImpl -Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2017-11-16 11:20:39.459 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2017-11-16 11:20:39.459 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2017-11-16 11:20:39.567 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2017-11-16 11:20:39.567 [localhost-startStop-1] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2017-11-16 11:20:40.018 [main] WARN  o.s.c.n.a.ArchaiusAutoConfiguration -No spring.application.name found, defaulting to 'application'
+2017-11-16 11:20:40.020 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2017-11-16 11:20:40.020 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2017-11-16 11:20:40.024 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2017-11-16 11:20:40.024 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2017-11-16 11:20:40.417 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 11:20:36 CST 2017]; root of context hierarchy
+2017-11-16 11:20:40.497 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-11-16 11:20:40.498 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-11-16 11:20:40.504 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2017-11-16 11:20:40.505 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2017-11-16 11:20:40.532 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 11:20:40.532 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 11:20:40.572 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-11-16 11:20:41.023 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.025 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+2017-11-16 11:20:41.026 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.setStatus(java.lang.String)
+2017-11-16 11:20:41.026 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/service-registry/instance-status],methods=[GET]}" onto public org.springframework.http.ResponseEntity org.springframework.cloud.client.serviceregistry.endpoint.ServiceRegistryEndpoint.getStatus()
+2017-11-16 11:20:41.027 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.029 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.030 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2017-11-16 11:20:41.032 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.038 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2017-11-16 11:20:41.039 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.040 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.043 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.046 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+2017-11-16 11:20:41.048 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2017-11-16 11:20:41.050 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2017-11-16 11:20:41.051 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.052 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.058 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+2017-11-16 11:20:41.059 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+2017-11-16 11:20:41.059 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.060 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.061 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2017-11-16 11:20:41.216 [main] INFO  o.s.u.f.SpringTemplateLoader -SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b12b668: startup date [Thu Nov 16 11:20:36 CST 2017]; root of context hierarchy] and template loader path [classpath:/templates/]
+2017-11-16 11:20:41.217 [main] INFO  o.s.w.s.v.f.FreeMarkerConfigurer -ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-11-16 11:20:41.432 [main] INFO  c.n.e.DefaultEurekaServerContext -Initializing ...
+2017-11-16 11:20:41.435 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Adding new peer nodes [http://127.0.0.1:1888/eureka/]
+2017-11-16 11:20:41.655 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2017-11-16 11:20:41.656 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2017-11-16 11:20:41.656 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2017-11-16 11:20:41.656 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2017-11-16 11:20:41.824 [main] INFO  c.n.eureka.cluster.PeerEurekaNodes -Replica node URL:  http://127.0.0.1:1888/eureka/
+2017-11-16 11:20:41.831 [main] INFO  c.n.e.r.AbstractInstanceRegistry -Finished initializing remote region registries. All known remote regions: []
+2017-11-16 11:20:41.832 [main] INFO  c.n.e.DefaultEurekaServerContext -Initialized
+2017-11-16 11:20:41.914 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-11-16 11:20:41.925 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'serviceRegistryEndpoint' has been autodetected for JMX exposure
+2017-11-16 11:20:41.927 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'serviceRegistryEndpoint': registering with JMX server as MBean [org.springframework.cloud.client.serviceregistry.endpoint:name=serviceRegistryEndpoint,type=ServiceRegistryEndpoint]
+2017-11-16 11:20:41.949 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
+2017-11-16 11:20:41.950 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry -Registering application unknown with eureka with status UP
+2017-11-16 11:20:42.007 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Setting the eureka configuration..
+2017-11-16 11:20:42.008 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka data center value eureka.datacenter is not set, defaulting to default
+2017-11-16 11:20:42.009 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Eureka environment value eureka.environment is not set, defaulting to test
+2017-11-16 11:20:42.021 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -isAws returned false
+2017-11-16 11:20:42.021 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerBootstrap -Initialized server context
+2017-11-16 11:20:42.022 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Got 1 instances from neighboring DS node
+2017-11-16 11:20:42.022 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Renew threshold is: 1
+2017-11-16 11:20:42.022 [Thread-26] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Changing status to UP
+2017-11-16 11:20:42.028 [Thread-26] INFO  o.s.c.n.e.s.EurekaServerInitializerConfiguration -Started Eureka Server
+2017-11-16 11:20:42.076 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 1888 (http)
+2017-11-16 11:20:42.077 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration -Updating port to 1888
+2017-11-16 11:20:42.081 [main] INFO  yibitong.EurekaApplication -Started EurekaApplication in 7.867 seconds (JVM running for 9.187)
+2017-11-16 11:20:43.023 [http-nio-1888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-11-16 11:20:43.023 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization started
+2017-11-16 11:20:43.060 [http-nio-1888-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization completed in 37 ms
+2017-11-16 11:20:43.109 [http-nio-1888-exec-2] WARN  c.n.e.r.AbstractInstanceRegistry -DS: Registry: lease doesn't exist, registering resource: YIBITONG-TRANSACTION-SERVER - yibitong-transaction-server:192.168.0.230:8767
+2017-11-16 11:20:43.110 [http-nio-1888-exec-2] WARN  c.n.e.resources.InstanceResource -Not Found (Renew): YIBITONG-TRANSACTION-SERVER - yibitong-transaction-server:192.168.0.230:8767
+2017-11-16 11:20:43.310 [http-nio-1888-exec-3] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=false)
+2017-11-16 11:20:43.969 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=true)
+2017-11-16 11:20:45.174 [http-nio-1888-exec-6] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=false)
+2017-11-16 11:20:45.688 [http-nio-1888-exec-5] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=true)
+2017-11-16 11:20:57.893 [http-nio-1888-exec-10] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=false)
+2017-11-16 11:20:58.414 [http-nio-1888-exec-2] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-TRANSACTION-SERVER/yibitong-transaction-server:192.168.0.230:8767 with status UP (replication=true)
+2017-11-16 11:21:24.859 [http-nio-1888-exec-3] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 11:21:25.376 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 11:21:42.024 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:22:42.024 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:23:42.025 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:24:42.026 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:25:42.026 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:26:42.027 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:27:42.028 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:28:42.030 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 2ms
+2017-11-16 11:29:42.031 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:30:42.032 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:31:42.032 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:32:42.033 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:33:42.035 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 11:34:42.035 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:35:41.832 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 11:35:42.036 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:36:42.036 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:37:42.037 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:38:42.039 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 2ms
+2017-11-16 11:39:42.040 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:40:42.040 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:41:42.041 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:42:42.041 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:43:42.042 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:44:42.043 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:45:42.044 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:46:42.044 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 11:47:42.045 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:48:42.047 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 2ms
+2017-11-16 11:49:42.097 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 49ms
+2017-11-16 11:50:41.832 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 11:50:42.098 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:51:42.099 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:52:42.099 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:53:42.100 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:54:42.102 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 11:55:42.102 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:56:42.103 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:57:42.104 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:58:42.104 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 11:59:42.105 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:00:42.105 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:01:42.106 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:02:09.709 [http-nio-1888-exec-1] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 12:02:10.223 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 12:02:42.107 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:03:42.107 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:04:42.108 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:05:41.832 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 12:05:42.109 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:06:42.109 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:07:42.110 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:08:42.111 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:09:42.111 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:10:42.112 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:11:42.113 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:12:42.114 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:13:42.114 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:14:42.115 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:15:42.116 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:16:42.116 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:17:42.117 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:18:42.118 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:19:42.118 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:20:41.833 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 12:20:42.119 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:21:42.120 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:22:42.120 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:23:42.120 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:24:42.121 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:25:42.122 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:26:42.122 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:27:42.123 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:28:42.124 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:29:42.124 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:30:42.125 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:31:42.126 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:32:42.126 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:33:42.127 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:34:42.132 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 5ms
+2017-11-16 12:35:41.833 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 12:35:42.132 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:36:42.133 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:37:42.134 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:38:42.134 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:39:42.135 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:40:42.136 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:41:42.137 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:42:42.137 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:43:42.138 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:44:42.139 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:45:42.139 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 12:46:42.140 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:47:42.141 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:48:42.141 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:49:42.142 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:50:41.833 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 12:50:42.143 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:51:42.143 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:52:42.144 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:53:42.145 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:54:42.145 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:55:42.145 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:56:42.146 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:57:42.147 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:58:42.147 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 12:59:42.148 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:00:42.149 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:01:42.149 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:02:42.150 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:03:42.151 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:04:42.151 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:05:41.834 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 13:05:42.152 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:06:42.153 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:07:42.153 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:08:42.154 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:09:42.154 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:10:42.155 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:11:42.156 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:12:42.157 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:13:42.157 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:14:42.159 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 13:15:42.159 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:16:42.159 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:17:42.160 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:18:42.160 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:19:42.160 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:20:41.834 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 13:20:42.160 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:21:17.247 [http-nio-1888-exec-1] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 13:21:17.750 [http-nio-1888-exec-10] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 13:21:42.161 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:22:23.655 [http-nio-1888-exec-6] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 13:22:24.162 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 13:22:42.162 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:23:42.162 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:24:42.163 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:25:42.163 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:26:42.164 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:27:42.165 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:28:42.166 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:29:42.166 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:30:42.167 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:31:42.168 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:32:42.168 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:33:42.169 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:33:50.193 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 13:33:50.701 [http-nio-1888-exec-1] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 13:34:42.169 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:35:41.835 [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] INFO  c.n.e.r.PeerAwareInstanceRegistryImpl -Current renewal threshold is : 5
+2017-11-16 13:35:42.170 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:36:42.171 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:37:42.171 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:38:42.175 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 1ms
+2017-11-16 13:38:52.546 [http-nio-1888-exec-10] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 13:38:53.061 [http-nio-1888-exec-7] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 13:39:42.172 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:40:42.173 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:41:42.174 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:42:42.257 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 83ms
+2017-11-16 13:43:42.257 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:43:44.039 [http-nio-1888-exec-4] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=false)
+2017-11-16 13:43:44.548 [http-nio-1888-exec-1] INFO  c.n.e.r.AbstractInstanceRegistry -Registered instance YIBITONG-USER-SERVER/yibitong-user-server:192.168.0.230:8789 with status UP (replication=true)
+2017-11-16 13:44:42.258 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:45:42.259 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:46:42.259 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:47:42.259 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
+2017-11-16 13:48:42.260 [Eureka-EvictionTimer] INFO  c.n.e.r.AbstractInstanceRegistry -Running the evict task with compensationTime 0ms
